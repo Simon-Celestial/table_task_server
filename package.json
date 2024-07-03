@@ -1,0 +1,10 @@
+{
+  "name": "json-server",
+  "description": "Json server for task",
+  "scripts": {
+    "dev": "json-server --delay 500 --watch db.json --port 3100"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "students": [
+    {
+      "studentName": "Ziya",
+      "studentSurname": "Gasimli",
+      "studentNo": 321,
+      "class": "123AA",
+      "id": 5
+    },
+    {
+      "studentName": "Ziya",
+      "studentSurname": "Gasimli",
+      "studentNo": 321,
+      "class": "13A",
+      "id": 6
+    },
+    {
+      "studentName": "Arif",
+      "studentSurname": "Gasimov",
+      "studentNo": 324,
+      "class": "15B",
+      "id": 7
+    },
+    {
+      "studentName": "Narmin",
+      "studentSurname": "Salamova",
+      "studentNo": 432,
+      "class": "93A",
+      "id": 9
+    },
+    {
+      "studentName": "Nicat",
+      "studentSurname": "Yusifov",
+      "studentNo": 443,
+      "class": "16S",
+      "id": 10
+    },
+    {
+      "studentName": "Arif",
+      "studentSurname": "Gasimov",
+      "studentNo": 321,
+      "class": "38A",
+      "id": 11
+    },
+    {
+      "studentName": "Nurlan",
+      "studentSurname": "Yusif",
+      "studentNo": 13,
+      "class": "13C",
+      "id": 12
+    }
+  ],
+  "lessons": [
+    {
+      "lessonName": "Biologiya",
+      "teacherName": "Arif Asadov",
+      "teacherNo": 32313,
+      "class": "54A",
+      "id": 4
+    },
+    {
+      "lessonName": "Biologiya",
+      "teacherName": "Arif Asadov",
+      "teacherNo": 3231,
+      "class": "32A",
+      "id": 5
+    },
+    {
+      "lessonName": "Chemistry",
+      "teacherName": "Valiyev Nazim",
+      "teacherNo": 321,
+      "class": "10A",
+      "id": 6
+    },
+    {
+      "lessonName": "Tech",
+      "teacherName": "Nigar Guliyeva",
+      "teacherNo": 432,
+      "class": "8B",
+      "id": 8
+    },
+    {
+      "lessonName": "Biologiya",
+      "teacherName": "Arif Asadov",
+      "teacherNo": 321,
+      "class": "18B",
+      "id": 9
+    },
+    {
+      "lessonName": "Biologiya",
+      "teacherName": "Nigar Arifova",
+      "teacherNo": 3213,
+      "class": "32D",
+      "id": 10
+    }
+  ],
+  "scores": [
+    {
+      "studentFullName": "Ziya Gasimli",
+      "teacherName": "Nigar Arifova",
+      "lessonName": "Chemistry",
+      "class": "123A",
+      "date": "2024-07-14T20:00",
+      "score": 76,
+      "id": 1
+    }
+  ]
+}
