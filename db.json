@@ -1,107 +1,107 @@
 {
   "students": [
     {
-      "studentName": "Ziya",
-      "studentSurname": "Gasimli",
-      "studentNo": 321,
-      "class": "123AA",
-      "id": 5
-    },
-    {
-      "studentName": "Ziya",
-      "studentSurname": "Gasimli",
-      "studentNo": 321,
-      "class": "13A",
-      "id": 6
-    },
-    {
-      "studentName": "Arif",
-      "studentSurname": "Gasimov",
-      "studentNo": 324,
-      "class": "15B",
-      "id": 7
-    },
-    {
-      "studentName": "Narmin",
-      "studentSurname": "Salamova",
-      "studentNo": 432,
-      "class": "93A",
-      "id": 9
+      "studentName": "Vagif",
+      "studentSurname": "Asadov",
+      "studentNo": 445,
+      "class": "432B",
+      "id": 1
     },
     {
       "studentName": "Nicat",
-      "studentSurname": "Yusifov",
-      "studentNo": 443,
-      "class": "16S",
-      "id": 10
+      "studentSurname": "Maggeramov",
+      "studentNo": 543,
+      "class": "465A",
+      "id": 2
     },
     {
-      "studentName": "Arif",
-      "studentSurname": "Gasimov",
-      "studentNo": 321,
-      "class": "38A",
-      "id": 11
+      "studentName": "Nigar",
+      "studentSurname": "Jamalova",
+      "studentNo": 654,
+      "class": "232B",
+      "id": 3
+    },
+    {
+      "studentName": "Tofig",
+      "studentSurname": "Allahverdiyev",
+      "studentNo": 876,
+      "class": "018U",
+      "id": 4
     },
     {
       "studentName": "Nurlan",
-      "studentSurname": "Yusif",
-      "studentNo": 13,
-      "class": "13C",
-      "id": 12
+      "studentSurname": "Mammadli",
+      "studentNo": 765,
+      "class": "099T",
+      "id": 5
+    },
+    {
+      "studentName": "Narmin",
+      "studentSurname": "Musayeva",
+      "studentNo": 811,
+      "class": "043H",
+      "id": 6
+    },
+    {
+      "studentName": "Ziya",
+      "studentSurname": "Gasimli",
+      "studentNo": 854,
+      "class": "099Y",
+      "id": 7
     }
   ],
   "lessons": [
     {
-      "lessonName": "Biologiya",
+      "lessonName": "Biology",
       "teacherName": "Arif Asadov",
-      "teacherNo": 32313,
-      "class": "54A",
-      "id": 4
-    },
-    {
-      "lessonName": "Biologiya",
-      "teacherName": "Arif Asadov",
-      "teacherNo": 3231,
-      "class": "32A",
-      "id": 5
+      "teacherNo": 23,
+      "class": "123A",
+      "id": 1
     },
     {
       "lessonName": "Chemistry",
-      "teacherName": "Valiyev Nazim",
-      "teacherNo": 321,
-      "class": "10A",
-      "id": 6
+      "teacherName": "Konul Agayeva",
+      "teacherNo": 56,
+      "class": "132C",
+      "id": 2
+    },
+    {
+      "lessonName": "Math",
+      "teacherName": "Anar Veliyev",
+      "teacherNo": 32,
+      "class": "132H",
+      "id": 3
+    },
+    {
+      "lessonName": "Philosophy",
+      "teacherName": "Murad Javanshirov",
+      "teacherNo": 54,
+      "class": "188G",
+      "id": 4
     },
     {
       "lessonName": "Tech",
-      "teacherName": "Nigar Guliyeva",
-      "teacherNo": 432,
-      "class": "8B",
-      "id": 8
+      "teacherName": "Yusif Velizarov",
+      "teacherNo": 88,
+      "class": "231C",
+      "id": 5
     },
     {
-      "lessonName": "Biologiya",
-      "teacherName": "Arif Asadov",
-      "teacherNo": 321,
-      "class": "18B",
-      "id": 9
-    },
-    {
-      "lessonName": "Biologiya",
-      "teacherName": "Nigar Arifova",
-      "teacherNo": 3213,
-      "class": "32D",
-      "id": 10
+      "lessonName": "English",
+      "teacherName": "Johh Perez",
+      "teacherNo": 91,
+      "class": "212A",
+      "id": 6
     }
   ],
   "scores": [
     {
-      "studentFullName": "Ziya Gasimli",
-      "teacherName": "Nigar Arifova",
-      "lessonName": "Chemistry",
-      "class": "123A",
-      "date": "2024-07-14T20:00",
-      "score": 76,
+      "studentFullName": "Vagif Asadov",
+      "teacherName": "Konul Agayeva",
+      "lessonName": "Philosophy",
+      "class": "432B",
+      "date": "2024-07-10T13:00",
+      "score": 80,
       "id": 1
     }
   ]
